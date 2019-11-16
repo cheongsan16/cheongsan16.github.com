@@ -3,7 +3,7 @@ layout: post
 title:  "<한 걸음> 영상 제작"
 date:   2019-10-20 08:00
 categories: jekyll
-permalink: /archivers/test
+permalink: /archivers/one
 ---
 
 # 제작의도
