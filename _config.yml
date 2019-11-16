@@ -11,10 +11,10 @@ author: cheongsan16
 avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
 profile: 이것저것 만들고 덕질하고 노는 사람입니다.
 twitter_username: cheongsan16lol
-instagram_username: cheongsan1616 
 #github_username:  github_username
 profile_links:
   Email: "mailto:cheongsan16@naver.com"
+  instagram_username: cheongsan1616 
   #GitHub: "https://github.com/cheongsan16/cheongsan16.guthub.com"
   # You can add more profile links above, or edit _includes/sidebar.html 
 
@@ -27,9 +27,9 @@ excerpt_separator: <!--more-->
 
 header:
   links:             # Links on the header. Link to in-site page with a slash as prefix
-    About: /소개/
-    Category: /카테고리/
-    Donate: https://twip.kr/cheongsan16
+    소개: /about/
+    카테고리: /category/
+    후원하기: https://twip.kr/cheongsan16
 
 permalink: /archivers/:title
 plugins:
