@@ -1,8 +1,7 @@
 16# Site settings
 title: Blog
-url: "https://cheongsan16.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
-baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
-#timezone: Asia/Chongqing
+url: "https://cheongsan16.github.io"   
+baseurl: "" 
 description: >
   One or more sentences introducing this blog.
 
@@ -15,7 +14,7 @@ twitter_username: cheongsan16lol
 #github_username:  github_username
 profile_links:
   Email: "mailto:cheongsan16@naver.com"
-  GitHub: "https://github.com/laobubu/jekyll-theme-EasyBook"
+  GitHub: "https://github.com/cheongsan16/cheongsan16.guthub.com"
   # You can add more profile links above, or edit _includes/sidebar.html 
 
 # Comment Service (Disqus or 多说)
