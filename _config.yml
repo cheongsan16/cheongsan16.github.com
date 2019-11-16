@@ -1,20 +1,21 @@
 # Site settings
-title: Blog
+title: Cheongsan16's Blog
 url: "https://cheongsan16.github.io"   
 baseurl: "" 
 description: >
-  One or more sentences introducing this blog.
+  신하은의 블로그에 오신 것을 환영합니다!
 
 # Your information
 email: cheongsan16@naver.com
 author: cheongsan16
 avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
-profile: One sentence introducing yourself.
+profile: 이것저것 만들고 덕질하고 노는 사람입니다.
 twitter_username: cheongsan16lol
+instagram_username: cheongsan1616 
 #github_username:  github_username
 profile_links:
   Email: "mailto:cheongsan16@naver.com"
-  GitHub: "https://github.com/cheongsan16/cheongsan16.guthub.com"
+  #GitHub: "https://github.com/cheongsan16/cheongsan16.guthub.com"
   # You can add more profile links above, or edit _includes/sidebar.html 
 
 # Comment Service (Disqus or 多说)
@@ -26,9 +27,9 @@ excerpt_separator: <!--more-->
 
 header:
   links:             # Links on the header. Link to in-site page with a slash as prefix
-    About: /about/
-    Category: /category/
-    Donate: https://laobubu.net/donate.html
+    About: /소개/
+    Category: /카테고리/
+    Donate: https://twip.kr/cheongsan16
 
 permalink: /archivers/:title
 plugins:
