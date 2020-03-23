@@ -9,12 +9,11 @@ description: >
 email: cheongsan16@naver.com
 author: cheongsan16
 avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
-profile: 어덕행덕
+profile: INFP
 twitter_username: cheongsan16lol
 github_username:  cheongsan16
 profile_links:
-  Email: "mailto:cheongsan16@naver.com" 
-  GitHub: "https://github.com/cheongsan16/cheongsan16.guthub.com"
+  Email: "mailto:cheongsan16@naver.com"
   # You can add more profile links above, or edit _includes/sidebar.html 
 
 # Comment Service (Disqus or 多说)
