@@ -3,7 +3,7 @@ layout: post
 title:  "python으로 배스킨라빈스31 게임 만들기"
 date:   2020-03-01 11:00
 categories: jekyll
-permalink: /archivers/mal
+permalink: /archivers/baskinrobins
 ---
 # python으로 배스킨라빈스31 게임 만들기
 
