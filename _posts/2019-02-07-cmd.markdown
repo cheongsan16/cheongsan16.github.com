@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "python으로 명령 프롬포트 만들기"
-date:   2019-02-07 08:00
+date:   2020-02-07 08:00
 categories: jekyll
 permalink: /archivers/mal
 ---
