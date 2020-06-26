@@ -8,7 +8,7 @@ permalink: /archivers/shock
 
 # 영상 보러가기 
 [https://www.youtube.com/watch?v=WU734U95y0o](https://www.youtube.com/watch?v=WU734U95y0o)
-<br>영상에 출연한 다른 친구들을 위해 영상 링크 공유는 자제해주세요!
+<br>현재 비공개 처리된 영상
  
 # 제작의도
 
